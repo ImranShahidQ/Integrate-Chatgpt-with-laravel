@@ -1,0 +1,1 @@
+Analyze the content and write me a brief analysis based on the following chat content, keeping in mind that my relationship with this person whose chat is below is {RELATIONSHIP} and I know this person since past {TIME_KNOWN};

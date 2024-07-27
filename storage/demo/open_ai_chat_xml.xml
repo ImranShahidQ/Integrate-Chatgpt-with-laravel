@@ -1,0 +1,29 @@
+<chat>
+    <message sender="you" timestamp="2024-06-07T14:30:00">
+        <text>Hello Shahid! How are you today?</text>
+    </message>
+    <message sender="shahid" timestamp="2024-06-07T14:35:00">
+        <text>Hey! I'm doing great, thanks for asking. How about you?</text>
+    </message>
+    <message sender="you" timestamp="2024-06-07T14:40:00">
+        <text>I'm good too, just catching up on some work. Did you watch the latest movie?</text>
+    </message>
+    <message sender="shahid" timestamp="2024-06-07T14:45:00">
+        <text>Yes, I did! It was amazing. Have you seen it?</text>
+    </message>
+    <message sender="you" timestamp="2024-06-07T14:50:00">
+        <text>No, not yet. I'm planning to watch it this weekend. How was the ending?</text>
+    </message>
+    <message sender="shahid" timestamp="2024-06-07T14:55:00">
+        <text>I won't spoil it for you! You'll have to watch and find out. By the way, have you tried that new restaurant downtown?</text>
+    </message>
+    <message sender="you" timestamp="2024-06-07T15:00:00">
+        <text>Not yet, but I've heard good things about it. We should plan a dinner there sometime.</text>
+    </message>
+    <message sender="shahid" timestamp="2024-06-07T15:05:00">
+        <text>Definitely! Let's make it happen next week. Anyway, got to go now. Talk to you later!</text>
+    </message>
+    <message sender="you" timestamp="2024-06-07T15:10:00">
+        <text>Sure, talk to you later. Take care!</text>
+    </message>
+</chat>
